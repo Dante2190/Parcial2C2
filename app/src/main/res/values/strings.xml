@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial 2 Tienda SQLite y CouchDB</string>
+
+    <string name="codigo">Codigo:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="marca">Marca:</string>
+    <string name="presentacion">Presentacion:</string>
+    <string name="precio">Precio:</string>
+    <string name="guardar_productos">Guardar Productos</string>
+
+</resources>
